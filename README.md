@@ -60,6 +60,9 @@ This app currently integrates the following Plaid products:
 
 ![CLI Summary](screenshots/summary_view.png)
 
+![Account Linking](screenshots/link_account.png)
+
+
 ---
 
 ## 📁 Project Structure
