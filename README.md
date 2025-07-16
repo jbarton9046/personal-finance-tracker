@@ -73,78 +73,82 @@ personal-finance-tracker/
 ├── .env                    # API keys and config (not committed)
 └── README.md               # Project overview and documentation
 
-🖼️ Screenshots
-![Category Breakdown](screenshots/category_breakdown.png)
-![Link Account](screenshots/link_account.png)
-![Summary View](screenshots/summary_view.png)
-![Weekly Summary](screenshots/weekly_summary.png)
+---
 
-Monthly summary output
+## 🖼️ Screenshots
 
-Mock terminal screen to select and link bank accounts
+![Category Breakdown](screenshots/category_breakdown.png)  
+*Spending summary by category for July 2025*
 
-Spending summary by category for July 2025
+![Link Account](screenshots/link_account.png)  
+*Mock terminal screen to select and link bank accounts*
 
-Weekly income and expenses for July 2025
+![Summary View](screenshots/summary_view.png)  
+*Monthly summary output*
 
-📄 Usage Instructions
+![Weekly Summary](screenshots/weekly_summary.png)  
+*Weekly income and expenses for July 2025*
+
+---
+
+## 📄 Usage Instructions
+
 Basic CLI usage example:
 
+```bash
 python parser.py --month July --exclude transfers returns --category Groceries
+
+---
+
+## 📄 Usage Instructions
 
 Coming soon:
 
---save csv
+- `--save csv`  
+- `--group by-week`  
+- `--net-cashflow-only`  
+- `--export summary.pdf`
 
---group by-week
+---
 
---net-cashflow-only
+## 🗺 Roadmap
 
---export summary.pdf
+- Automate transaction pulls using Plaid  
+- CLI summaries with category filters  
+- Add weekly/monthly report modes  
+- Upload project to GitHub with screenshots  
+- Monthly statement integration  
+- Web dashboard (Flask or React)  
+- Spending alerts and insights  
+- OAuth-based multi-user support  
+- CSV/PDF export and visualization  
+- Rule-based auto-tagging (e.g., Venmo = “Transfer”)  
+- Build responsive web UI with HTML/CSS  
+- Create Flask-based dashboard and views  
+- Add chart visualizations (e.g., Chart.js, Plotly)  
 
-🗺 Roadmap
- Automate transaction pulls using Plaid
+---
 
- CLI summaries with category filters
+## 🔐 Security Notes
 
- Add weekly/monthly report modes
+- API keys are stored securely in a `.env` file (never hardcoded)  
+- Only read-only access is used for financial data via Plaid  
+- No credentials or sensitive user data is stored  
+- `.env` and other private files are listed in `.gitignore`  
 
- Upload project to GitHub with screenshots
+---
 
- Monthly statement integration
+## 📫 Contact
 
- Web dashboard (Flask or React)
+Built and maintained by **Jack Barton**  
+📍 Sarasota, Florida  
+🔗 [https://github.com/jackbarton](https://github.com/jackbarton)  
+📧 [your.email@example.com] *(optional)*  
 
- Spending alerts and insights
+---
 
- OAuth-based multi-user support
-
- CSV/PDF export and visualization
-
- Rule-based auto-tagging (e.g., Venmo = “Transfer”)
-
- Build responsive web UI with HTML/CSS
-
- Create Flask-based dashboard and views
-
- Add chart visualizations (e.g., Chart.js, Plotly)
-
-🔐 Security Notes
-API keys are stored securely in a .env file (never hardcoded)
-
-Only read-only access is used for financial data via Plaid
-
-No credentials or sensitive user data is stored
-
-.env and other private files are listed in .gitignore
-
-📫 Contact
-Built and maintained by Jack Barton
-📍 Sarasota, Florida
-🔗 https://github.com/jackbarton
-📧 [your.email@example.com] (optional)
-
-⚠️ Disclaimer
+⚠️ **Disclaimer**  
 This project is under active development for personal and educational use only. It is not a licensed financial advisor, and no financial decisions should be made solely based on its outputs.
+
 
 
