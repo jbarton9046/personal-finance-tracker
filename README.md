@@ -66,6 +66,11 @@ This app currently integrates the following Plaid products:
 *Spending summary by category for July 2025*
 
 
+![Weekly Summary](screenshots/weekly_summary.png)  
+*Weekly income and expenses for July 2025*
+
+
+
 ---
 
 ## 📁 Project Structure
