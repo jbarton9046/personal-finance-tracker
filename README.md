@@ -99,6 +99,7 @@ Basic CLI usage example:
 
 ```bash
 python parser.py --month July --exclude transfers returns --category Groceries
+```
 
 Coming soon:
 
@@ -140,11 +141,10 @@ Coming soon:
 
 Built and maintained by **Jack Barton**  
 📍 Sarasota, Florida  
-🔗 https://github.com/jbarton9046  
-📧 jbarton9046@gmail.com
+🔗 [https://github.com/jackbarton](https://github.com/jackbarton)  
+📧 your.email@example.com *(optional)*
 
 ---
 
 ⚠️ **Disclaimer**  
 This project is under active development for personal and educational use only. It is not a licensed financial advisor, and no financial decisions should be made solely based on its outputs.
-
