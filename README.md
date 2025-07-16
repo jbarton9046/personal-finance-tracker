@@ -60,7 +60,6 @@ This app uses the following Plaid products:
 
 ## 📁 Project Structure
 
-```bash
 personal-finance-tracker/
 ├── static/                 # CSS and JS files (future web UI)
 ├── templates/              # HTML templates (Flask will use these)
@@ -72,8 +71,6 @@ personal-finance-tracker/
 ├── requirements.txt        # Python dependencies
 ├── .env                    # API keys and config (not committed)
 └── README.md               # Project overview and documentation
-
----
 
 ---
 
