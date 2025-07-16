@@ -56,6 +56,12 @@ This app currently integrates the following Plaid products:
 
 ---
 
+## 🖼️ Screenshots
+
+![CLI Summary](screenshots/summary_view.png)
+
+---
+
 ## 📁 Project Structure
 
 ```bash
