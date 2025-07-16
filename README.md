@@ -74,16 +74,10 @@ personal-finance-tracker/
 └── README.md               # Project overview and documentation
 
 🖼️ Screenshots
-![CLI Summary](screenshots/summary_view.png)
-
-![Account Linking](screenshots/link_account.png)
-
-![Category Breakdown](screenshots/category_breakdown.png)  
-*Spending summary by category for July 2025*
-
-
-![Weekly Summary](screenshots/weekly_summary.png)  
-*Weekly income and expenses for July 2025*
+![Category Breakdown](screenshots/category_breakdown.png)
+![Link Account](screenshots/link_account.png)
+![Summary View](screenshots/summary_view.png)
+![Weekly Summary](screenshots/weekly_summary.png)
 
 Monthly summary output
 
