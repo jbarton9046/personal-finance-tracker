@@ -75,6 +75,8 @@ personal-finance-tracker/
 
 ---
 
+---
+
 ## 🖼️ Screenshots
 
 ![Category Breakdown](screenshots/category_breakdown.png)  
@@ -97,10 +99,7 @@ Basic CLI usage example:
 
 ```bash
 python parser.py --month July --exclude transfers returns --category Groceries
-
----
-
-## 📄 Usage Instructions
+```
 
 Coming soon:
 
@@ -125,7 +124,7 @@ Coming soon:
 - Rule-based auto-tagging (e.g., Venmo = “Transfer”)  
 - Build responsive web UI with HTML/CSS  
 - Create Flask-based dashboard and views  
-- Add chart visualizations (e.g., Chart.js, Plotly)  
+- Add chart visualizations (e.g., Chart.js, Plotly)
 
 ---
 
@@ -134,7 +133,7 @@ Coming soon:
 - API keys are stored securely in a `.env` file (never hardcoded)  
 - Only read-only access is used for financial data via Plaid  
 - No credentials or sensitive user data is stored  
-- `.env` and other private files are listed in `.gitignore`  
+- `.env` and other private files are listed in `.gitignore`
 
 ---
 
@@ -143,12 +142,9 @@ Coming soon:
 Built and maintained by **Jack Barton**  
 📍 Sarasota, Florida  
 🔗 [https://github.com/jackbarton](https://github.com/jackbarton)  
-📧 [your.email@example.com] *(optional)*  
+📧 your.email@example.com *(optional)*
 
 ---
 
 ⚠️ **Disclaimer**  
 This project is under active development for personal and educational use only. It is not a licensed financial advisor, and no financial decisions should be made solely based on its outputs.
-
-
-
