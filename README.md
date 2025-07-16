@@ -77,8 +77,6 @@ personal-finance-tracker/
 
 ---
 
----
-
 ## 🖼️ Screenshots
 
 ![Category Breakdown](screenshots/category_breakdown.png)  
