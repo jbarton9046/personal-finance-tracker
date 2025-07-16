@@ -90,7 +90,6 @@ personal-finance-tracker/
 
 ![Weekly Summary](screenshots/weekly_summary.png)  
 *Weekly income and expenses for July 2025*
-
 ---
 
 ## 📄 Usage Instructions
