@@ -62,6 +62,9 @@ This app currently integrates the following Plaid products:
 
 ![Account Linking](screenshots/link_account.png)
 
+![Category Breakdown](screenshots/category_breakdown.png)  
+*Spending summary by category for July 2025*
+
 
 ---
 
