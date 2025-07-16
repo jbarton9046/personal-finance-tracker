@@ -140,8 +140,8 @@ Coming soon:
 
 Built and maintained by **Jack Barton**  
 📍 Sarasota, Florida  
-🔗 [https://github.com/jackbarton](https://github.com/jackbarton)  
-📧 your.email@example.com *(optional)*
+🔗 [https://github.com/jbarton9046](https://github.com/jbarton9046)  
+📧 jbarton9046@gmail.com
 
 ---
 
